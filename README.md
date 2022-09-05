@@ -139,3 +139,21 @@ fixed | 뷰포트 | X
 
 # 원시 HTML(Raw HTML)
 
+동해물과 <u>백두산이</u> 마르고 닳도록<br/>
+<span style="text-decoration: underline;">하느님</span>이 보우하사 우리나라 만세<br/>
+
+<a href="https://naver.com" 
+title="NAVER로 이동!"
+target="_blank">NAVER</a>
+
+---
+
+<img width="70" src="https://avatars.githubusercontent.com/u/79634608?v=4" />
+
+# 수평선(Horizontal Rule)
+
+---
+
+***
+
+___
